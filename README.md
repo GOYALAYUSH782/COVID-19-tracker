@@ -1,3 +1,7 @@
+[Live Website Link](https://world-covid19-status-tracker.netlify.app/)
+
+Made with ♥️ by Ayush 💪
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
